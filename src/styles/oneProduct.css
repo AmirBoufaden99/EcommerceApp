@@ -1,0 +1,30 @@
+.OneProduct h3 {
+    font-size: 22px;
+    width: 250px;
+    margin: auto;
+}
+
+.OneProduct img {
+    width: 250px;
+}
+
+.qte {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    margin: auto;
+}
+
+.qte2 {
+    display: flex;
+}
+
+.qte input[type=number] {
+    width: 50px;
+}
+
+.OneProduct {
+    margin-bottom: 10%;
+    flex-basis: 30%;
+    text-align: center;
+}

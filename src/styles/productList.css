@@ -1,0 +1,39 @@
+.productContainer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
+    justify-content: end;
+    
+}
+
+.allProducts {
+    width: 70%;
+}
+
+.mainContainer {
+    margin: 4% 0;
+    display: flex;
+    justify-content: center;
+}
+
+.myForm {
+    
+    margin: auto;
+}
+
+.addProduct h1 {
+    text-align: center;
+}
+
+.addProduct {
+    width: 20%;
+    background-color: rgb(240, 240, 240);
+    padding: 2%;
+    box-sizing: border-box;
+}
+
+.searchBar {
+    margin-top: 10%;
+}
